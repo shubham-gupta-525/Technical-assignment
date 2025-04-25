@@ -1,0 +1,12 @@
+body {
+    font-family: Arial;
+    margin: 20px;
+}
+h1, h2 {
+    color: #d25c29;
+}
+
+canvas {
+    max-width: 600px;
+    margin: 20px 0;
+}
